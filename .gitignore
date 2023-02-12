@@ -1,0 +1,12 @@
+Doc/
+*.epf
+*.dri
+*.gpi
+*.GBL
+*.GBO
+*.GBS
+*.GKO
+*.GTL
+*.GTO
+*.GTS
+*.XLN
